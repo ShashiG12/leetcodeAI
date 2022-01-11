@@ -20341,3 +20341,5 @@ JavaScript warning: https://assets.leetcode.com/static_assets/public/webpack_bun
 * tryNativeGL
 * Exhausted GL driver options.
 JavaScript error: https://leetcode.com/problems/wiggle-sort-ii/, line 479: TypeError: document.getElementsByClassName(...)[0] is undefined
+1641920317407	Marionette	INFO	Stopped listening on port 60512
+1641920323334	Marionette	INFO	Stopped listening on port 58172
