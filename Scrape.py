@@ -102,39 +102,11 @@ for link in allLinks:
                     problemText = ""
                     for paragraph in page.findAll('p'):
                         problemText += paragraph.text
+                    print(problemText)
                     pText.append(problemText)
 
             pType.append(link.get('href').split("/")[len(link.get('href').split("/")) - 2])
 
-df = pd.DataFrame({'Name':pName,'Text':pText,'Type':pType})
+df = pd.DataFrame({'Name': pName, 'Text': pText, 'Type': pType})
+df.to_csv('leetcodeData.csv', index=False, encoding='utf-8')
 print(df.head())
-
-# # loops over each product and grabs attributes about
-# # each product
-# for container in containers:
-#     # Finds all link tags "a" from within the first div.
-#     make_rating_sp = container.div.select("a")
-#
-#     # Grabs the title from the image title attribute
-#     # Then does proper casing using .title()
-#     brand = make_rating_sp[0].img["title"].title()
-#
-#     # Grabs the text within the second "(a)" tag from within
-#     # the list of queries.
-#     product_name = container.div.select("a")[2].text
-#
-#     # Grabs the product shipping information by searching
-#     # all lists with the class "price-ship".
-#     # Then cleans the text of white space with strip()
-#     # Cleans the strip of "Shipping $" if it exists to just get number
-#     shipping = container.findAll("li", {"class": "price-ship"})[0].text.strip().replace("$", "").replace(" Shipping", "")
-#
-#     # prints the dataset to console
-#     print("problem: " + problem + "\n")
-#     print("type: " + type + "\n")
-#
-#     # writes the dataset to file
-#     f.write(problem.replace(",", "|") + ", " + type + "\n")
-#
-# f.close()  # Close the file
-#
