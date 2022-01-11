@@ -95,15 +95,18 @@ for link in allLinks:
                     # page_soup2 = soup(uReq(uClient).read(), "html.parser")
 
                     driver.get(link2.get('href'))
-                    time.sleep(4)
+                    time.sleep(3)
                     page_source = driver.page_source
-                    time.sleep(4)
                     page = soup(page_source, 'html.parser')
                     problemText = ""
                     for paragraph in page.findAll('p'):
                         problemText += paragraph.text
-                    print(problemText)
-                    pText.append(problemText)
+                    if "sign in" not in problemText:
+                        print(problemText)
+                        pText.append(problemText)
+                    else:
+                        print("PREMIUMLOCKED")
+                        pText.append("PREMIUMLOCKED")
 
             pType.append(link.get('href').split("/")[len(link.get('href').split("/")) - 2])
 
