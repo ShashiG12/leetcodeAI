@@ -1,0 +1,773 @@
+1641858115898	geckodriver	INFO	Listening on 127.0.0.1:50198
+1641858116176	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "50199" "-foreground" "-no-remote" "-profile" "/var/folders/_s/3nsdr13n2jlgx670y3q2rkcw0000gn/T/rust_mozprofiletkiSkb"
+1641858116846	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1641858116847	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1641858116847	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1641858116847	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+[GFX1-]: [OPENGL] Failed to init compositor with reason: FEATURE_FAILURE_OPENGL_CREATE_CONTEXT
+JavaScript error: chrome://remote/content/RemoteAgent.jsm, line 37: Error: Remote agent is disabled by its preference
+1641858120465	Marionette	INFO	Listening on port 50205
+1641858120538	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.leetcode.com/static_assets/public/webpack_bundles/new-apps/desktop.bbf26c3eb.js, line 17: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* tryNativeGL
+* Exhausted GL driver options.
+JavaScript warning: https://assets.leetcode.com/static_assets/public/webpack_bundles/new-apps/desktop.bbf26c3eb.js, line 17: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* tryNativeGL
+* Exhausted GL driver options.
+JavaScript warning: https://assets.leetcode.com/static_assets/public/webpack_bundles/new-apps/desktop.bbf26c3eb.js, line 17: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* tryNativeGL
+* Exhausted GL driver options.
+JavaScript warning: https://assets.leetcode.com/static_assets/public/webpack_bundles/new-apps/desktop.bbf26c3eb.js, line 17: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* tryNativeGL
+* Exhausted GL driver options.
+1641858125547	Marionette	INFO	Stopped listening on port 50205
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1641858131986	geckodriver	INFO	Listening on 127.0.0.1:50355
+1641858132504	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "50356" "-foreground" "-no-remote" "-profile" "/var/folders/_s/3nsdr13n2jlgx670y3q2rkcw0000gn/T/rust_mozprofileICuXNM"
+1641858133156	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1641858133156	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1641858133157	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1641858133157	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+[GFX1-]: [OPENGL] Failed to init compositor with reason: FEATURE_FAILURE_OPENGL_CREATE_CONTEXT
+JavaScript error: chrome://remote/content/RemoteAgent.jsm, line 37: Error: Remote agent is disabled by its preference
+1641858136319	Marionette	INFO	Listening on port 50361
+1641858136376	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.leetcode.com/static_assets/public/webpack_bundles/new-apps/desktop.bbf26c3eb.js, line 17: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* tryNativeGL
+* Exhausted GL driver options.
+JavaScript warning: https://assets.leetcode.com/static_assets/public/webpack_bundles/new-apps/desktop.bbf26c3eb.js, line 17: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* tryNativeGL
+* Exhausted GL driver options.
+JavaScript warning: https://assets.leetcode.com/static_assets/public/webpack_bundles/new-apps/desktop.bbf26c3eb.js, line 17: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* tryNativeGL
+* Exhausted GL driver options.
+JavaScript warning: https://assets.leetcode.com/static_assets/public/webpack_bundles/new-apps/desktop.bbf26c3eb.js, line 17: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* tryNativeGL
+* Exhausted GL driver options.
+1641858142727	Marionette	INFO	Stopped listening on port 50361
+1641858147829	geckodriver	INFO	Listening on 127.0.0.1:50505
+1641858148354	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "50506" "-foreground" "-no-remote" "-profile" "/var/folders/_s/3nsdr13n2jlgx670y3q2rkcw0000gn/T/rust_mozprofileSZCG6w"
+1641858149094	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1641858149094	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1641858149095	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1641858149095	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+[GFX1-]: [OPENGL] Failed to init compositor with reason: FEATURE_FAILURE_OPENGL_CREATE_CONTEXT
+JavaScript error: chrome://remote/content/RemoteAgent.jsm, line 37: Error: Remote agent is disabled by its preference
+1641858152190	Marionette	INFO	Listening on port 50512
+1641858152218	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.leetcode.com/static_assets/public/webpack_bundles/new-apps/desktop.bbf26c3eb.js, line 17: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* tryNativeGL
+* Exhausted GL driver options.
+JavaScript warning: https://assets.leetcode.com/static_assets/public/webpack_bundles/new-apps/desktop.bbf26c3eb.js, line 17: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* tryNativeGL
+* Exhausted GL driver options.
+JavaScript warning: https://assets.leetcode.com/static_assets/public/webpack_bundles/new-apps/desktop.bbf26c3eb.js, line 17: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* tryNativeGL
+* Exhausted GL driver options.
+JavaScript warning: https://assets.leetcode.com/static_assets/public/webpack_bundles/new-apps/desktop.bbf26c3eb.js, line 17: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* tryNativeGL
+* Exhausted GL driver options.
+1641858156822	Marionette	INFO	Stopped listening on port 50512
+JavaScript error: https://leetcode.com/problems/4sum/, line 479: TypeError: document.getElementsByClassName(...)[0] is undefined
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1641858161471	geckodriver	INFO	Listening on 127.0.0.1:50648
+1641858161997	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "50649" "-foreground" "-no-remote" "-profile" "/var/folders/_s/3nsdr13n2jlgx670y3q2rkcw0000gn/T/rust_mozprofileITxLIK"
+1641858162505	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1641858162505	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1641858162505	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1641858162505	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+[GFX1-]: [OPENGL] Failed to init compositor with reason: FEATURE_FAILURE_OPENGL_CREATE_CONTEXT
+JavaScript error: chrome://remote/content/RemoteAgent.jsm, line 37: Error: Remote agent is disabled by its preference
+1641858165484	Marionette	INFO	Listening on port 50658
+1641858165535	Marionette	WARN	TLS certificate errors will be ignored for this session
+1641858169792	geckodriver::marionette	ERROR	Failed to close browser connection: Socket is not connected (os error 57)
+1641858170946	Marionette	INFO	Stopped listening on port 50658
+1641858214972	geckodriver	INFO	Listening on 127.0.0.1:50939
+1641858215497	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "50940" "-foreground" "-no-remote" "-profile" "/var/folders/_s/3nsdr13n2jlgx670y3q2rkcw0000gn/T/rust_mozprofilePYhcrk"
+1641858215967	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1641858215967	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1641858215967	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1641858215967	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+[GFX1-]: [OPENGL] Failed to init compositor with reason: FEATURE_FAILURE_OPENGL_CREATE_CONTEXT
+JavaScript error: chrome://remote/content/RemoteAgent.jsm, line 37: Error: Remote agent is disabled by its preference
+1641858218558	Marionette	INFO	Listening on port 50945
+1641858218646	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.leetcode.com/static_assets/public/webpack_bundles/new-apps/desktop.bbf26c3eb.js, line 17: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* tryNativeGL
+* Exhausted GL driver options.
+JavaScript warning: https://assets.leetcode.com/static_assets/public/webpack_bundles/new-apps/desktop.bbf26c3eb.js, line 17: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* tryNativeGL
+* Exhausted GL driver options.
+JavaScript warning: https://assets.leetcode.com/static_assets/public/webpack_bundles/new-apps/desktop.bbf26c3eb.js, line 17: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* tryNativeGL
+* Exhausted GL driver options.
+JavaScript warning: https://assets.leetcode.com/static_assets/public/webpack_bundles/new-apps/desktop.bbf26c3eb.js, line 17: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* tryNativeGL
+* Exhausted GL driver options.
+JavaScript error: https://leetcode.com/problems/container-with-most-water/, line 479: TypeError: document.getElementsByClassName(...)[0] is undefined
+1641858392852	geckodriver	INFO	Listening on 127.0.0.1:51748
+1641858393368	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "51749" "-foreground" "-no-remote" "-profile" "/var/folders/_s/3nsdr13n2jlgx670y3q2rkcw0000gn/T/rust_mozprofile0aXmab"
+1641858393896	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1641858393896	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1641858393896	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1641858393897	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+[GFX1-]: [OPENGL] Failed to init compositor with reason: FEATURE_FAILURE_OPENGL_CREATE_CONTEXT
+JavaScript error: chrome://remote/content/RemoteAgent.jsm, line 37: Error: Remote agent is disabled by its preference
+1641858397165	Marionette	INFO	Listening on port 51754
+1641858397242	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.leetcode.com/static_assets/public/webpack_bundles/new-apps/desktop.bbf26c3eb.js, line 17: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* tryNativeGL
+* Exhausted GL driver options.
+JavaScript warning: https://assets.leetcode.com/static_assets/public/webpack_bundles/new-apps/desktop.bbf26c3eb.js, line 17: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* tryNativeGL
+* Exhausted GL driver options.
+JavaScript warning: https://assets.leetcode.com/static_assets/public/webpack_bundles/new-apps/desktop.bbf26c3eb.js, line 17: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* tryNativeGL
+* Exhausted GL driver options.
+JavaScript warning: https://assets.leetcode.com/static_assets/public/webpack_bundles/new-apps/desktop.bbf26c3eb.js, line 17: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* tryNativeGL
+* Exhausted GL driver options.
+JavaScript error: https://leetcode.com/problems/container-with-most-water/, line 479: TypeError: document.getElementsByClassName(...)[0] is undefined
+1641858407934	geckodriver	INFO	Listening on 127.0.0.1:51897
+1641858408455	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "51898" "-foreground" "-no-remote" "-profile" "/var/folders/_s/3nsdr13n2jlgx670y3q2rkcw0000gn/T/rust_mozprofileAHH45d"
+1641858408989	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1641858408989	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1641858408989	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1641858408989	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+[GFX1-]: [OPENGL] Failed to init compositor with reason: FEATURE_FAILURE_OPENGL_CREATE_CONTEXT
+JavaScript error: chrome://remote/content/RemoteAgent.jsm, line 37: Error: Remote agent is disabled by its preference
+1641858412320	Marionette	INFO	Listening on port 51903
+1641858412412	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.leetcode.com/static_assets/public/webpack_bundles/new-apps/desktop.bbf26c3eb.js, line 17: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* tryNativeGL
+* Exhausted GL driver options.
+JavaScript warning: https://assets.leetcode.com/static_assets/public/webpack_bundles/new-apps/desktop.bbf26c3eb.js, line 17: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* tryNativeGL
+* Exhausted GL driver options.
+JavaScript warning: https://assets.leetcode.com/static_assets/public/webpack_bundles/new-apps/desktop.bbf26c3eb.js, line 17: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* tryNativeGL
+* Exhausted GL driver options.
+JavaScript warning: https://assets.leetcode.com/static_assets/public/webpack_bundles/new-apps/desktop.bbf26c3eb.js, line 17: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* tryNativeGL
+* Exhausted GL driver options.
+JavaScript error: https://leetcode.com/problems/3sum-closest/, line 479: TypeError: document.getElementsByClassName(...)[0] is undefined
+1641858422453	geckodriver	INFO	Listening on 127.0.0.1:52040
+1641858422974	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "52041" "-foreground" "-no-remote" "-profile" "/var/folders/_s/3nsdr13n2jlgx670y3q2rkcw0000gn/T/rust_mozprofiletyhl7T"
+1641858423471	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1641858423471	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1641858423471	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1641858423471	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+[GFX1-]: [OPENGL] Failed to init compositor with reason: FEATURE_FAILURE_OPENGL_CREATE_CONTEXT
+JavaScript error: chrome://remote/content/RemoteAgent.jsm, line 37: Error: Remote agent is disabled by its preference
+1641858426294	Marionette	INFO	Listening on port 52050
+1641858426312	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.leetcode.com/static_assets/public/webpack_bundles/new-apps/desktop.bbf26c3eb.js, line 17: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* tryNativeGL
+* Exhausted GL driver options.
+JavaScript warning: https://assets.leetcode.com/static_assets/public/webpack_bundles/new-apps/desktop.bbf26c3eb.js, line 17: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* tryNativeGL
+* Exhausted GL driver options.
+JavaScript warning: https://assets.leetcode.com/static_assets/public/webpack_bundles/new-apps/desktop.bbf26c3eb.js, line 17: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* tryNativeGL
+* Exhausted GL driver options.
+JavaScript warning: https://assets.leetcode.com/static_assets/public/webpack_bundles/new-apps/desktop.bbf26c3eb.js, line 17: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* tryNativeGL
+* Exhausted GL driver options.
+JavaScript error: https://leetcode.com/problems/4sum/, line 479: TypeError: document.getElementsByClassName(...)[0] is undefined
+1641858436530	geckodriver	INFO	Listening on 127.0.0.1:52181
+1641858437066	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "52182" "-foreground" "-no-remote" "-profile" "/var/folders/_s/3nsdr13n2jlgx670y3q2rkcw0000gn/T/rust_mozprofilefFiZ8u"
+1641858437907	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1641858437908	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1641858437908	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1641858437908	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 8995, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1641858454353	Marionette	INFO	Stopped listening on port 50945
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x1A0011,name=PBackgroundStorage::Msg_Observe) Channel error: cannot send/recv
+
+1641858457595	Marionette	INFO	Stopped listening on port 51754
+1641858459988	Marionette	INFO	Stopped listening on port 51903
+1641858482722	geckodriver	INFO	Listening on 127.0.0.1:52405
+1641858483246	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "52406" "-foreground" "-no-remote" "-profile" "/var/folders/_s/3nsdr13n2jlgx670y3q2rkcw0000gn/T/rust_mozprofiletTuPIp"
+1641858483744	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1641858483744	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1641858483744	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1641858483744	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+[GFX1-]: [OPENGL] Failed to init compositor with reason: FEATURE_FAILURE_OPENGL_CREATE_CONTEXT
+JavaScript error: chrome://remote/content/RemoteAgent.jsm, line 37: Error: Remote agent is disabled by its preference
+1641858486696	Marionette	INFO	Listening on port 52415
+1641858486787	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.leetcode.com/static_assets/public/webpack_bundles/new-apps/desktop.bbf26c3eb.js, line 17: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* tryNativeGL
+* Exhausted GL driver options.
+JavaScript warning: https://assets.leetcode.com/static_assets/public/webpack_bundles/new-apps/desktop.bbf26c3eb.js, line 17: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* tryNativeGL
+* Exhausted GL driver options.
+JavaScript warning: https://assets.leetcode.com/static_assets/public/webpack_bundles/new-apps/desktop.bbf26c3eb.js, line 17: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* tryNativeGL
+* Exhausted GL driver options.
+JavaScript warning: https://assets.leetcode.com/static_assets/public/webpack_bundles/new-apps/desktop.bbf26c3eb.js, line 17: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* tryNativeGL
+* Exhausted GL driver options.
+JavaScript error: https://leetcode.com/problems/container-with-most-water/, line 479: TypeError: document.getElementsByClassName(...)[0] is undefined
+1641858498544	Marionette	INFO	Stopped listening on port 52415
+1641858595285	geckodriver	INFO	Listening on 127.0.0.1:52976
+1641858595810	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "52977" "-foreground" "-no-remote" "-profile" "/var/folders/_s/3nsdr13n2jlgx670y3q2rkcw0000gn/T/rust_mozprofile2hnmCM"
+1641858596452	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1641858596452	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1641858596452	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1641858596452	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+[GFX1-]: [OPENGL] Failed to init compositor with reason: FEATURE_FAILURE_OPENGL_CREATE_CONTEXT
+JavaScript error: chrome://remote/content/RemoteAgent.jsm, line 37: Error: Remote agent is disabled by its preference
+1641858599527	Marionette	INFO	Listening on port 52982
+1641858599563	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.leetcode.com/static_assets/public/webpack_bundles/new-apps/desktop.bbf26c3eb.js, line 17: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* tryNativeGL
+* Exhausted GL driver options.
+JavaScript warning: https://assets.leetcode.com/static_assets/public/webpack_bundles/new-apps/desktop.bbf26c3eb.js, line 17: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* tryNativeGL
+* Exhausted GL driver options.
+JavaScript warning: https://assets.leetcode.com/static_assets/public/webpack_bundles/new-apps/desktop.bbf26c3eb.js, line 17: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* tryNativeGL
+* Exhausted GL driver options.
+JavaScript warning: https://assets.leetcode.com/static_assets/public/webpack_bundles/new-apps/desktop.bbf26c3eb.js, line 17: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* tryNativeGL
+* Exhausted GL driver options.
+JavaScript error: https://leetcode.com/problems/container-with-most-water/, line 479: TypeError: document.getElementsByClassName(...)[0] is undefined
+1641858612011	Marionette	INFO	Stopped listening on port 52982
+1641858739359	geckodriver	INFO	Listening on 127.0.0.1:53645
+1641858739882	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "53646" "-foreground" "-no-remote" "-profile" "/var/folders/_s/3nsdr13n2jlgx670y3q2rkcw0000gn/T/rust_mozprofileECh3Rm"
+1641858740589	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1641858740589	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1641858740589	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1641858740589	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+[GFX1-]: [OPENGL] Failed to init compositor with reason: FEATURE_FAILURE_OPENGL_CREATE_CONTEXT
+JavaScript error: chrome://remote/content/RemoteAgent.jsm, line 37: Error: Remote agent is disabled by its preference
+1641858743915	Marionette	INFO	Listening on port 53655
+1641858743936	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.leetcode.com/static_assets/public/webpack_bundles/new-apps/desktop.bbf26c3eb.js, line 17: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* tryNativeGL
+* Exhausted GL driver options.
+JavaScript warning: https://assets.leetcode.com/static_assets/public/webpack_bundles/new-apps/desktop.bbf26c3eb.js, line 17: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* tryNativeGL
+* Exhausted GL driver options.
+JavaScript warning: https://assets.leetcode.com/static_assets/public/webpack_bundles/new-apps/desktop.bbf26c3eb.js, line 17: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* tryNativeGL
+* Exhausted GL driver options.
+JavaScript warning: https://assets.leetcode.com/static_assets/public/webpack_bundles/new-apps/desktop.bbf26c3eb.js, line 17: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* tryNativeGL
+* Exhausted GL driver options.
+JavaScript error: https://leetcode.com/problems/container-with-most-water/, line 479: TypeError: document.getElementsByClassName(...)[0] is undefined
+1641858751232	Marionette	INFO	Stopped listening on port 53655
+1641858930093	geckodriver	INFO	Listening on 127.0.0.1:54527
+1641858930612	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "54528" "-foreground" "-no-remote" "-profile" "/var/folders/_s/3nsdr13n2jlgx670y3q2rkcw0000gn/T/rust_mozprofileCvAfxj"
+1641858931417	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1641858931417	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1641858931417	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1641858931417	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+[GFX1-]: [OPENGL] Failed to init compositor with reason: FEATURE_FAILURE_OPENGL_CREATE_CONTEXT
+JavaScript error: chrome://remote/content/RemoteAgent.jsm, line 37: Error: Remote agent is disabled by its preference
+1641858935159	Marionette	INFO	Listening on port 54537
+1641858935193	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.leetcode.com/static_assets/public/webpack_bundles/new-apps/desktop.bbf26c3eb.js, line 17: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* tryNativeGL
+* Exhausted GL driver options.
+JavaScript warning: https://assets.leetcode.com/static_assets/public/webpack_bundles/new-apps/desktop.bbf26c3eb.js, line 17: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* tryNativeGL
+* Exhausted GL driver options.
+JavaScript warning: https://assets.leetcode.com/static_assets/public/webpack_bundles/new-apps/desktop.bbf26c3eb.js, line 17: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* tryNativeGL
+* Exhausted GL driver options.
+JavaScript warning: https://assets.leetcode.com/static_assets/public/webpack_bundles/new-apps/desktop.bbf26c3eb.js, line 17: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* tryNativeGL
+* Exhausted GL driver options.
+JavaScript error: https://leetcode.com/problems/container-with-most-water/, line 479: TypeError: document.getElementsByClassName(...)[0] is undefined
+1641858945181	Marionette	INFO	Stopped listening on port 54537
+1641858996275	geckodriver	INFO	Listening on 127.0.0.1:54896
+1641858996802	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "54897" "-foreground" "-no-remote" "-profile" "/var/folders/_s/3nsdr13n2jlgx670y3q2rkcw0000gn/T/rust_mozprofileFaEGJu"
+1641858997368	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1641858997368	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1641858997368	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1641858997368	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+[GFX1-]: [OPENGL] Failed to init compositor with reason: FEATURE_FAILURE_OPENGL_CREATE_CONTEXT
+JavaScript error: chrome://remote/content/RemoteAgent.jsm, line 37: Error: Remote agent is disabled by its preference
+1641859000410	Marionette	INFO	Listening on port 54906
+1641859000424	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.leetcode.com/static_assets/public/webpack_bundles/new-apps/desktop.bbf26c3eb.js, line 17: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* tryNativeGL
+* Exhausted GL driver options.
+JavaScript warning: https://assets.leetcode.com/static_assets/public/webpack_bundles/new-apps/desktop.bbf26c3eb.js, line 17: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* tryNativeGL
+* Exhausted GL driver options.
+JavaScript warning: https://assets.leetcode.com/static_assets/public/webpack_bundles/new-apps/desktop.bbf26c3eb.js, line 17: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* tryNativeGL
+* Exhausted GL driver options.
+JavaScript warning: https://assets.leetcode.com/static_assets/public/webpack_bundles/new-apps/desktop.bbf26c3eb.js, line 17: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* tryNativeGL
+* Exhausted GL driver options.
+JavaScript error: https://leetcode.com/problems/container-with-most-water/, line 479: TypeError: document.getElementsByClassName(...)[0] is undefined
+1641859013816	Marionette	INFO	Stopped listening on port 54906
+1641859082624	geckodriver	INFO	Listening on 127.0.0.1:55345
+1641859083140	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "55346" "-foreground" "-no-remote" "-profile" "/var/folders/_s/3nsdr13n2jlgx670y3q2rkcw0000gn/T/rust_mozprofile89fi53"
+1641859083867	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1641859083867	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1641859083867	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1641859083867	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+[GFX1-]: [OPENGL] Failed to init compositor with reason: FEATURE_FAILURE_OPENGL_CREATE_CONTEXT
+JavaScript error: chrome://remote/content/RemoteAgent.jsm, line 37: Error: Remote agent is disabled by its preference
+1641859087026	Marionette	INFO	Listening on port 55355
+1641859087099	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.leetcode.com/static_assets/public/webpack_bundles/new-apps/desktop.bbf26c3eb.js, line 17: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* tryNativeGL
+* Exhausted GL driver options.
+JavaScript warning: https://assets.leetcode.com/static_assets/public/webpack_bundles/new-apps/desktop.bbf26c3eb.js, line 17: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* tryNativeGL
+* Exhausted GL driver options.
+JavaScript warning: https://assets.leetcode.com/static_assets/public/webpack_bundles/new-apps/desktop.bbf26c3eb.js, line 17: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* tryNativeGL
+* Exhausted GL driver options.
+JavaScript warning: https://assets.leetcode.com/static_assets/public/webpack_bundles/new-apps/desktop.bbf26c3eb.js, line 17: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* tryNativeGL
+* Exhausted GL driver options.
+JavaScript error: https://leetcode.com/problems/container-with-most-water/, line 479: TypeError: document.getElementsByClassName(...)[0] is undefined
+1641859095301	Marionette	INFO	Stopped listening on port 55355
+1641859141493	geckodriver	INFO	Listening on 127.0.0.1:55694
+1641859142014	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "55695" "-foreground" "-no-remote" "-profile" "/var/folders/_s/3nsdr13n2jlgx670y3q2rkcw0000gn/T/rust_mozprofilevsHWss"
+1641859142557	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1641859142557	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1641859142557	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1641859142557	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+[GFX1-]: [OPENGL] Failed to init compositor with reason: FEATURE_FAILURE_OPENGL_CREATE_CONTEXT
+JavaScript error: chrome://remote/content/RemoteAgent.jsm, line 37: Error: Remote agent is disabled by its preference
+1641859145523	Marionette	INFO	Listening on port 55700
+1641859145540	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.leetcode.com/static_assets/public/webpack_bundles/new-apps/desktop.bbf26c3eb.js, line 17: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* tryNativeGL
+* Exhausted GL driver options.
+JavaScript warning: https://assets.leetcode.com/static_assets/public/webpack_bundles/new-apps/desktop.bbf26c3eb.js, line 17: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* tryNativeGL
+* Exhausted GL driver options.
+JavaScript warning: https://assets.leetcode.com/static_assets/public/webpack_bundles/new-apps/desktop.bbf26c3eb.js, line 17: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* tryNativeGL
+* Exhausted GL driver options.
+JavaScript warning: https://assets.leetcode.com/static_assets/public/webpack_bundles/new-apps/desktop.bbf26c3eb.js, line 17: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* tryNativeGL
+* Exhausted GL driver options.
+JavaScript error: https://leetcode.com/problems/container-with-most-water/, line 479: TypeError: document.getElementsByClassName(...)[0] is undefined
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+1641859189331	geckodriver	INFO	Listening on 127.0.0.1:55980
+1641859189849	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "55981" "-foreground" "-no-remote" "-profile" "/var/folders/_s/3nsdr13n2jlgx670y3q2rkcw0000gn/T/rust_mozprofilewT08xr"
+1641859190489	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1641859190490	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1641859190490	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1641859190490	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+[GFX1-]: [OPENGL] Failed to init compositor with reason: FEATURE_FAILURE_OPENGL_CREATE_CONTEXT
+JavaScript error: chrome://remote/content/RemoteAgent.jsm, line 37: Error: Remote agent is disabled by its preference
+1641859193835	Marionette	INFO	Listening on port 55990
+1641859193896	Marionette	WARN	TLS certificate errors will be ignored for this session
+1641859235796	geckodriver	INFO	Listening on 127.0.0.1:56236
+1641859236314	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "56237" "-foreground" "-no-remote" "-profile" "/var/folders/_s/3nsdr13n2jlgx670y3q2rkcw0000gn/T/rust_mozprofileg3vvcJ"
+1641859236829	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1641859236830	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1641859236830	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1641859236830	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+[GFX1-]: [OPENGL] Failed to init compositor with reason: FEATURE_FAILURE_OPENGL_CREATE_CONTEXT
+JavaScript error: chrome://remote/content/RemoteAgent.jsm, line 37: Error: Remote agent is disabled by its preference
+1641859239932	Marionette	INFO	Listening on port 56242
+1641859239969	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.leetcode.com/static_assets/public/webpack_bundles/new-apps/desktop.bbf26c3eb.js, line 17: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* tryNativeGL
+* Exhausted GL driver options.
+JavaScript warning: https://assets.leetcode.com/static_assets/public/webpack_bundles/new-apps/desktop.bbf26c3eb.js, line 17: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* tryNativeGL
+* Exhausted GL driver options.
+JavaScript warning: https://assets.leetcode.com/static_assets/public/webpack_bundles/new-apps/desktop.bbf26c3eb.js, line 17: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* tryNativeGL
+* Exhausted GL driver options.
+JavaScript warning: https://assets.leetcode.com/static_assets/public/webpack_bundles/new-apps/desktop.bbf26c3eb.js, line 17: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* tryNativeGL
+* Exhausted GL driver options.
+1641859245102	Marionette	INFO	Stopped listening on port 55990
+JavaScript error: https://leetcode.com/problems/container-with-most-water/, line 479: TypeError: document.getElementsByClassName(...)[0] is undefined
+1641859250021	Marionette	INFO	Stopped listening on port 56242
+1641859360837	geckodriver	INFO	Listening on 127.0.0.1:56837
+1641859361392	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "56838" "-foreground" "-no-remote" "-profile" "/var/folders/_s/3nsdr13n2jlgx670y3q2rkcw0000gn/T/rust_mozprofilecYxpfI"
+1641859362327	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1641859362327	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1641859362328	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1641859362328	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+[GFX1-]: [OPENGL] Failed to init compositor with reason: FEATURE_FAILURE_OPENGL_CREATE_CONTEXT
+JavaScript error: chrome://remote/content/RemoteAgent.jsm, line 37: Error: Remote agent is disabled by its preference
+1641859365615	Marionette	INFO	Listening on port 56847
+1641859365706	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.leetcode.com/static_assets/public/webpack_bundles/new-apps/desktop.bbf26c3eb.js, line 17: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* tryNativeGL
+* Exhausted GL driver options.
+JavaScript warning: https://assets.leetcode.com/static_assets/public/webpack_bundles/new-apps/desktop.bbf26c3eb.js, line 17: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* tryNativeGL
+* Exhausted GL driver options.
+JavaScript warning: https://assets.leetcode.com/static_assets/public/webpack_bundles/new-apps/desktop.bbf26c3eb.js, line 17: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* tryNativeGL
+* Exhausted GL driver options.
+JavaScript warning: https://assets.leetcode.com/static_assets/public/webpack_bundles/new-apps/desktop.bbf26c3eb.js, line 17: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* tryNativeGL
+* Exhausted GL driver options.
+JavaScript error: https://leetcode.com/problems/container-with-most-water/, line 479: TypeError: document.getElementsByClassName(...)[0] is undefined
+1641859377457	Marionette	INFO	Stopped listening on port 56847
+1641873312166	geckodriver	INFO	Listening on 127.0.0.1:63921
+1641873312672	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "63922" "-foreground" "-no-remote" "-profile" "/var/folders/_s/3nsdr13n2jlgx670y3q2rkcw0000gn/T/rust_mozprofileglQYRA"
+1641873313355	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1641873313356	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1641873313356	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1641873313356	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+[GFX1-]: [OPENGL] Failed to init compositor with reason: FEATURE_FAILURE_OPENGL_CREATE_CONTEXT
+JavaScript error: chrome://remote/content/RemoteAgent.jsm, line 37: Error: Remote agent is disabled by its preference
+1641873317316	Marionette	INFO	Listening on port 63927
+1641873317369	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.leetcode.com/static_assets/public/webpack_bundles/new-apps/desktop.bbf26c3eb.js, line 17: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* tryNativeGL
+* Exhausted GL driver options.
+JavaScript warning: https://assets.leetcode.com/static_assets/public/webpack_bundles/new-apps/desktop.bbf26c3eb.js, line 17: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* tryNativeGL
+* Exhausted GL driver options.
+JavaScript warning: https://assets.leetcode.com/static_assets/public/webpack_bundles/new-apps/desktop.bbf26c3eb.js, line 17: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* tryNativeGL
+* Exhausted GL driver options.
+JavaScript warning: https://assets.leetcode.com/static_assets/public/webpack_bundles/new-apps/desktop.bbf26c3eb.js, line 17: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* tryNativeGL
+* Exhausted GL driver options.
+JavaScript error: https://leetcode.com/problems/container-with-most-water/, line 479: TypeError: document.getElementsByClassName(...)[0] is undefined
+1641873329286	Marionette	INFO	Stopped listening on port 63927
+1641875580593	geckodriver	INFO	Listening on 127.0.0.1:56937
+1641875581123	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "56938" "-foreground" "-no-remote" "-profile" "/var/folders/_s/3nsdr13n2jlgx670y3q2rkcw0000gn/T/rust_mozprofile8MwjNE"
+1641875582223	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1641875582223	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1641875582225	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1641875582225	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+[GFX1-]: [OPENGL] Failed to init compositor with reason: FEATURE_FAILURE_OPENGL_CREATE_CONTEXT
+JavaScript error: chrome://remote/content/RemoteAgent.jsm, line 37: Error: Remote agent is disabled by its preference
+1641875588638	Marionette	INFO	Listening on port 56943
+1641875588746	Marionette	WARN	TLS certificate errors will be ignored for this session
+1641875593929	Marionette	INFO	Stopped listening on port 56943
+1641877927113	geckodriver	INFO	Listening on 127.0.0.1:50277
+1641877927541	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "50278" "-foreground" "-no-remote" "-profile" "/var/folders/_s/3nsdr13n2jlgx670y3q2rkcw0000gn/T/rust_mozprofileK09Jbz"
+1641877928979	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1641877928980	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1641877928980	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1641877928980	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+[GFX1-]: [OPENGL] Failed to init compositor with reason: FEATURE_FAILURE_OPENGL_CREATE_CONTEXT
+JavaScript error: chrome://remote/content/RemoteAgent.jsm, line 37: Error: Remote agent is disabled by its preference
+1641877935813	Marionette	INFO	Listening on port 50287
+1641877935884	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.leetcode.com/static_assets/public/webpack_bundles/new-apps/desktop.bbf26c3eb.js, line 17: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* tryNativeGL
+* Exhausted GL driver options.
+JavaScript warning: https://assets.leetcode.com/static_assets/public/webpack_bundles/new-apps/desktop.bbf26c3eb.js, line 17: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* tryNativeGL
+* Exhausted GL driver options.
+JavaScript warning: https://assets.leetcode.com/static_assets/public/webpack_bundles/new-apps/desktop.bbf26c3eb.js, line 17: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* tryNativeGL
+* Exhausted GL driver options.
+JavaScript warning: https://assets.leetcode.com/static_assets/public/webpack_bundles/new-apps/desktop.bbf26c3eb.js, line 17: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* tryNativeGL
+* Exhausted GL driver options.
+JavaScript error: https://leetcode.com/problems/container-with-most-water/, line 479: TypeError: document.getElementsByClassName(...)[0] is undefined
+1641877953103	Marionette	INFO	Stopped listening on port 50287
+1641878084257	geckodriver	INFO	Listening on 127.0.0.1:51063
+1641878084773	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "51064" "-foreground" "-no-remote" "-profile" "/var/folders/_s/3nsdr13n2jlgx670y3q2rkcw0000gn/T/rust_mozprofileuUp6W1"
+1641878085801	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1641878085802	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1641878085802	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1641878085802	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+[GFX1-]: [OPENGL] Failed to init compositor with reason: FEATURE_FAILURE_OPENGL_CREATE_CONTEXT
+JavaScript error: chrome://remote/content/RemoteAgent.jsm, line 37: Error: Remote agent is disabled by its preference
+1641878091344	Marionette	INFO	Listening on port 51069
+1641878091390	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.leetcode.com/static_assets/public/webpack_bundles/new-apps/desktop.bbf26c3eb.js, line 17: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* tryNativeGL
+* Exhausted GL driver options.
+JavaScript warning: https://assets.leetcode.com/static_assets/public/webpack_bundles/new-apps/desktop.bbf26c3eb.js, line 17: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* tryNativeGL
+* Exhausted GL driver options.
+JavaScript warning: https://assets.leetcode.com/static_assets/public/webpack_bundles/new-apps/desktop.bbf26c3eb.js, line 17: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* tryNativeGL
+* Exhausted GL driver options.
+JavaScript warning: https://assets.leetcode.com/static_assets/public/webpack_bundles/new-apps/desktop.bbf26c3eb.js, line 17: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* tryNativeGL
+* Exhausted GL driver options.
+JavaScript error: https://leetcode.com/problems/container-with-most-water/, line 479: TypeError: document.getElementsByClassName(...)[0] is undefined
+JavaScript warning: https://assets.leetcode.com/static_assets/public/webpack_bundles/new-apps/desktop.bbf26c3eb.js, line 17: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* tryNativeGL
+* Exhausted GL driver options.
+JavaScript warning: https://assets.leetcode.com/static_assets/public/webpack_bundles/new-apps/desktop.bbf26c3eb.js, line 17: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* tryNativeGL
+* Exhausted GL driver options.
+JavaScript warning: https://assets.leetcode.com/static_assets/public/webpack_bundles/new-apps/desktop.bbf26c3eb.js, line 17: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* tryNativeGL
+* Exhausted GL driver options.
+JavaScript warning: https://assets.leetcode.com/static_assets/public/webpack_bundles/new-apps/desktop.bbf26c3eb.js, line 17: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* tryNativeGL
+* Exhausted GL driver options.
+JavaScript error: https://leetcode.com/problems/3sum-closest/, line 479: TypeError: document.getElementsByClassName(...)[0] is undefined
+JavaScript warning: https://assets.leetcode.com/static_assets/public/webpack_bundles/new-apps/desktop.bbf26c3eb.js, line 17: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* tryNativeGL
+* Exhausted GL driver options.
+JavaScript warning: https://assets.leetcode.com/static_assets/public/webpack_bundles/new-apps/desktop.bbf26c3eb.js, line 17: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* tryNativeGL
+* Exhausted GL driver options.
+JavaScript warning: https://assets.leetcode.com/static_assets/public/webpack_bundles/new-apps/desktop.bbf26c3eb.js, line 17: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* tryNativeGL
+* Exhausted GL driver options.
+JavaScript warning: https://assets.leetcode.com/static_assets/public/webpack_bundles/new-apps/desktop.bbf26c3eb.js, line 17: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* tryNativeGL
+* Exhausted GL driver options.
+JavaScript error: https://leetcode.com/problems/4sum/, line 479: TypeError: document.getElementsByClassName(...)[0] is undefined
+JavaScript warning: https://assets.leetcode.com/static_assets/public/webpack_bundles/new-apps/desktop.bbf26c3eb.js, line 17: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* tryNativeGL
+* Exhausted GL driver options.
+JavaScript warning: https://assets.leetcode.com/static_assets/public/webpack_bundles/new-apps/desktop.bbf26c3eb.js, line 17: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* tryNativeGL
+* Exhausted GL driver options.
+JavaScript warning: https://assets.leetcode.com/static_assets/public/webpack_bundles/new-apps/desktop.bbf26c3eb.js, line 17: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* tryNativeGL
+* Exhausted GL driver options.
+JavaScript warning: https://assets.leetcode.com/static_assets/public/webpack_bundles/new-apps/desktop.bbf26c3eb.js, line 17: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* tryNativeGL
+* Exhausted GL driver options.
+JavaScript error: https://leetcode.com/accounts/login/?next=/problems/3sum-smaller/, line 479: TypeError: document.getElementsByClassName(...)[0] is undefined
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1641878321751	geckodriver	INFO	Listening on 127.0.0.1:52141
+1641878322267	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "52142" "-foreground" "-no-remote" "-profile" "/var/folders/_s/3nsdr13n2jlgx670y3q2rkcw0000gn/T/rust_mozprofileC7ntVs"
+1641878323401	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1641878323401	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1641878323401	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1641878323401	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+[GFX1-]: [OPENGL] Failed to init compositor with reason: FEATURE_FAILURE_OPENGL_CREATE_CONTEXT
+JavaScript error: chrome://remote/content/RemoteAgent.jsm, line 37: Error: Remote agent is disabled by its preference
+1641878330313	Marionette	INFO	Listening on port 52147
+1641878330411	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.leetcode.com/static_assets/public/webpack_bundles/new-apps/desktop.bbf26c3eb.js, line 17: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* tryNativeGL
+* Exhausted GL driver options.
+JavaScript warning: https://assets.leetcode.com/static_assets/public/webpack_bundles/new-apps/desktop.bbf26c3eb.js, line 17: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* tryNativeGL
+* Exhausted GL driver options.
+JavaScript warning: https://assets.leetcode.com/static_assets/public/webpack_bundles/new-apps/desktop.bbf26c3eb.js, line 17: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* tryNativeGL
+* Exhausted GL driver options.
+JavaScript warning: https://assets.leetcode.com/static_assets/public/webpack_bundles/new-apps/desktop.bbf26c3eb.js, line 17: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* tryNativeGL
+* Exhausted GL driver options.
+JavaScript error: https://leetcode.com/problems/container-with-most-water/, line 479: TypeError: document.getElementsByClassName(...)[0] is undefined
+JavaScript warning: https://assets.leetcode.com/static_assets/public/webpack_bundles/new-apps/desktop.bbf26c3eb.js, line 17: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* tryNativeGL
+* Exhausted GL driver options.
+JavaScript warning: https://assets.leetcode.com/static_assets/public/webpack_bundles/new-apps/desktop.bbf26c3eb.js, line 17: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* tryNativeGL
+* Exhausted GL driver options.
+JavaScript warning: https://assets.leetcode.com/static_assets/public/webpack_bundles/new-apps/desktop.bbf26c3eb.js, line 17: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* tryNativeGL
+* Exhausted GL driver options.
+JavaScript warning: https://assets.leetcode.com/static_assets/public/webpack_bundles/new-apps/desktop.bbf26c3eb.js, line 17: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* tryNativeGL
+* Exhausted GL driver options.
+JavaScript error: https://leetcode.com/problems/3sum-closest/, line 479: TypeError: document.getElementsByClassName(...)[0] is undefined
+JavaScript warning: https://assets.leetcode.com/static_assets/public/webpack_bundles/new-apps/desktop.bbf26c3eb.js, line 17: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* tryNativeGL
+* Exhausted GL driver options.
+JavaScript warning: https://assets.leetcode.com/static_assets/public/webpack_bundles/new-apps/desktop.bbf26c3eb.js, line 17: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* tryNativeGL
+* Exhausted GL driver options.
+JavaScript warning: https://assets.leetcode.com/static_assets/public/webpack_bundles/new-apps/desktop.bbf26c3eb.js, line 17: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* tryNativeGL
+* Exhausted GL driver options.
+JavaScript warning: https://assets.leetcode.com/static_assets/public/webpack_bundles/new-apps/desktop.bbf26c3eb.js, line 17: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* tryNativeGL
+* Exhausted GL driver options.
+JavaScript error: https://leetcode.com/problems/4sum/, line 479: TypeError: document.getElementsByClassName(...)[0] is undefined
+JavaScript warning: https://assets.leetcode.com/static_assets/public/webpack_bundles/new-apps/desktop.bbf26c3eb.js, line 17: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* tryNativeGL
+* Exhausted GL driver options.
+JavaScript warning: https://assets.leetcode.com/static_assets/public/webpack_bundles/new-apps/desktop.bbf26c3eb.js, line 17: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* tryNativeGL
+* Exhausted GL driver options.
+JavaScript warning: https://assets.leetcode.com/static_assets/public/webpack_bundles/new-apps/desktop.bbf26c3eb.js, line 17: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* tryNativeGL
+* Exhausted GL driver options.
+JavaScript warning: https://assets.leetcode.com/static_assets/public/webpack_bundles/new-apps/desktop.bbf26c3eb.js, line 17: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* tryNativeGL
+* Exhausted GL driver options.
+JavaScript error: https://leetcode.com/accounts/login/?next=/problems/3sum-smaller/, line 479: TypeError: document.getElementsByClassName(...)[0] is undefined
+JavaScript warning: https://assets.leetcode.com/static_assets/public/webpack_bundles/new-apps/desktop.bbf26c3eb.js, line 17: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* tryNativeGL
+* Exhausted GL driver options.
+JavaScript warning: https://assets.leetcode.com/static_assets/public/webpack_bundles/new-apps/desktop.bbf26c3eb.js, line 17: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* tryNativeGL
+* Exhausted GL driver options.
+JavaScript warning: https://assets.leetcode.com/static_assets/public/webpack_bundles/new-apps/desktop.bbf26c3eb.js, line 17: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* tryNativeGL
+* Exhausted GL driver options.
+JavaScript warning: https://assets.leetcode.com/static_assets/public/webpack_bundles/new-apps/desktop.bbf26c3eb.js, line 17: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* tryNativeGL
+* Exhausted GL driver options.
+JavaScript error: https://leetcode.com/problems/substring-with-concatenation-of-all-words/, line 479: TypeError: document.getElementsByClassName(...)[0] is undefined
+JavaScript warning: https://assets.leetcode.com/static_assets/public/webpack_bundles/new-apps/desktop.bbf26c3eb.js, line 17: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* tryNativeGL
+* Exhausted GL driver options.
+JavaScript warning: https://assets.leetcode.com/static_assets/public/webpack_bundles/new-apps/desktop.bbf26c3eb.js, line 17: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* tryNativeGL
+* Exhausted GL driver options.
+JavaScript warning: https://assets.leetcode.com/static_assets/public/webpack_bundles/new-apps/desktop.bbf26c3eb.js, line 17: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* tryNativeGL
+* Exhausted GL driver options.
+JavaScript warning: https://assets.leetcode.com/static_assets/public/webpack_bundles/new-apps/desktop.bbf26c3eb.js, line 17: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* tryNativeGL
+* Exhausted GL driver options.
+JavaScript error: https://leetcode.com/problems/sort-colors/, line 479: TypeError: document.getElementsByClassName(...)[0] is undefined
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
